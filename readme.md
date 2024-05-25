@@ -6,14 +6,13 @@
 <div align="center">
   <a href="https://github.com/Lucas456th">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/andrew.jpg" alt="Profile" width="130">
+    <img src="./assets/img/ProfilePicture.jpg" alt="Profile" width="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Andrew P. Lucas</h3>
+  <h3 align="center">Andrew's Resume</h3>
 </div>
 <!-- TODO: Make a short description -->
-<div align="center">
-Always in all ways
+<div align="center">Hi feel free to check my Resume down below!  I look forward to the opportunity to discuss how my background, and skills align with your standards 🖌️
 </div>
 
 <br />
@@ -57,26 +56,27 @@ Always in all ways
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+Header: Introduces you with your name, job title, and a short description about myself.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+Skills: Showcase your technical  abilities and experiences.
 
+Projects: Details my recent projects, what they involved, and my contributions.
+
+Academic Background: Lists my educational history, including schools attended and degrees obtained.
+
+Footer: Provides ways to reach me, including my phone number, and email.
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Resume designed using CSS & HTML 
+- Single Page Website
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 
 ## Rules and Principles
@@ -112,4 +112,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Resume Template HTML | I used this as a reference for the template of my resume | https://codepen.io/alamin360am/pen/ExLKVZQ |
+| Resume Template CSS | I used this as a reference for the CSS code for my resume | https://www.w3schools.com/howto/howto_website_create_resume.asp
