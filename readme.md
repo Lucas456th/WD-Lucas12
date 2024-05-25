@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/andrew.jpg" alt="Profile" width="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Andrew P. Lucas</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-L. (Optional)
+Always in all ways
 </div>
 
 <br />

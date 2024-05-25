@@ -10,10 +10,10 @@ body {
 .container {
   max-width: 800px;
   margin: 50px auto;
-  background-color: #00b3ff;
   padding: 20px;
   border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+  background-image: url(/assets/img/Resume\ Background.jpg);
 }
 
 .header {
@@ -34,7 +34,7 @@ body {
 }
 
 .name {
-  font-size: 24px;
+  font-style: lorem ;
   margin-bottom: 10px;
 }
 
@@ -43,12 +43,8 @@ body {
   color: #ffffff;
 }
 
-.section {
-  margin-top: 30px;
-}
-
 .section h2 {
-  border-bottom: 2px solid #333;
+  border-bottom: 2px solid ;
   padding-bottom: 5px;
 }
 
@@ -56,17 +52,15 @@ body {
   margin: 10px 0;
 }
 
-.skills {
-  display: flex;
-  flex-wrap: wrap;
-}
+
+
 
 .skills li {
-  background-color: #f0f0f0;
-  color: #333;
-  padding: 5px 10px;
+  list-style-type: circle;
+  color:black
+  padding-left: 3px;
   margin: 5px;
-  border-radius: 5px;
+  border-radius: 4px;
 }
 
 .footer {
