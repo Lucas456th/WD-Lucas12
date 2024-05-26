@@ -56,9 +56,9 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Header: Introduces you with your name, job title, and a short description about myself.
+Header: Introduces you MY name, job title, and a short description about myself.
 
-Skills: Showcase your technical  abilities and experiences.
+Skills: Showcass my technical  abilities and experiences.
 
 Projects: Details my recent projects, what they involved, and my contributions.
 
